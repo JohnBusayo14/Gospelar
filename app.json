@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "gospelar",
+    "slug": "gospelar",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/appicon4.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/appicon4.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/appicon4.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.johnbusayo.gospelar"
+    },
+    "web": {
+      "favicon": "./assets/appicon4.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3131447a-a49f-4cba-9369-54c5868cb2a0"
+      }
+    }
+  }
+}
